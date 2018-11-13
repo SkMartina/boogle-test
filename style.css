@@ -1,0 +1,26 @@
+.header{
+text-align: right;
+}
+.search{
+  margin-top:200px;
+/* border: 2px solid red; to si samo pomagaš */
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+
+.a{
+  margin-left: 570px;
+  margin-right:auto;
+  position:relative;
+
+}
+.footer {
+  height: 100px;
+   width: 100px;
+   margin-top: 150px;
+   display: inline-block;
+
+}
